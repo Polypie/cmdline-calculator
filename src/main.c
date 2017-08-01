@@ -11,9 +11,22 @@ typedef struct
 		
 } input;
 
+typedef struct 
+{
+	char character;
+	int line;
+	int column;
+}character;
+
+
+char ** scanner(input userinput)
+{
+	
+}
 
 error_msg tokenize(input userinput)
 {
+	
 		
 	return ERROR_SYNTAX;	
 }
