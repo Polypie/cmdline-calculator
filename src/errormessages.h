@@ -1,0 +1,8 @@
+#ifndef ERRORMESSAGES_H_
+#define ERRORMESSAGES_H_
+	
+#define ERROR_DIV_WITH_ZERO -1
+#define ERROR_WRONG_ARG -2
+#define ERROR_WRONG_SIZE -3
+
+#endif
