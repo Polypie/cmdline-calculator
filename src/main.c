@@ -21,7 +21,7 @@ typedef struct
 
 char ** scanner(input userinput)
 {
-	
+		
 }
 
 error_msg tokenize(input userinput)
